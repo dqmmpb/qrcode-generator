@@ -7,7 +7,19 @@
   ],
   "ignore": [
     "**/.*",
+    ".settings",
     "node_modules",
-    "components"
+    "bower_components",
+    ".babelrc",
+    ".editorconfig",
+    ".gitignore",
+    ".gitattributes",
+    "package.json",
+    "as3",
+    "java",
+    "php",
+    "python",
+    "ruby",
+    "ts"
   ]
 }
